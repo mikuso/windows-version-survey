@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "commander": "^9.0.0",
+    "csv": "^6.0.5",
+    "execa": "^5.1.1"
+  },
+  "name": "survey",
+  "version": "0.0.1",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx pkg app.js -t node16-win-x64 -o bin/survey.exe"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
