@@ -5,7 +5,7 @@
     "execa": "^5.1.1"
   },
   "name": "survey",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "app.js",
   "devDependencies": {},
   "scripts": {
