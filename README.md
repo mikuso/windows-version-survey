@@ -1,4 +1,4 @@
-# Windown version survey
+# Windows version survey
 
 A simple app which takes an input list of computer names and then writes out a CSV file detailing their corresponding Windows version numbers.
 
